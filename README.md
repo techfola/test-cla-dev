@@ -1,4 +1,4 @@
 # test-cla-dev
 Test CLA githubbot for development
 
-cla test 1
+cla test 2
